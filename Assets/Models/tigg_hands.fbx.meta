@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 61c51833c05fe41a6be73d232a2ba3ad
+timeCreated: 1435090955
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: arms
+    100002: garmin
+    100004: garmin_lens
+    100006: Pistol
+    100008: //RootNode
+    100010: watch_band
+    100012: watch_face
+    100014: watch_glass
+    400000: arms
+    400002: garmin
+    400004: garmin_lens
+    400006: Pistol
+    400008: //RootNode
+    400010: watch_band
+    400012: watch_face
+    400014: watch_glass
+    2300000: arms
+    2300002: garmin
+    2300004: garmin_lens
+    2300006: Pistol
+    2300008: watch_band
+    2300010: watch_face
+    2300012: watch_glass
+    3300000: arms
+    3300002: garmin
+    3300004: garmin_lens
+    3300006: Pistol
+    3300008: watch_band
+    3300010: watch_face
+    3300012: watch_glass
+    4300000: garmin_lens
+    4300002: watch_face
+    4300004: watch_glass
+    4300006: watch_band
+    4300008: garmin
+    4300010: arms
+    4300012: Pistol
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
